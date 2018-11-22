@@ -1,0 +1,7 @@
+c:\users\w519l\source\repos\浙江大学数据结构课程练习\2_1多项式处理\bin\Debug\2_1多项式处理.exe.config
+c:\users\w519l\source\repos\浙江大学数据结构课程练习\2_1多项式处理\bin\Debug\2_1多项式处理.exe
+c:\users\w519l\source\repos\浙江大学数据结构课程练习\2_1多项式处理\bin\Debug\2_1多项式处理.pdb
+c:\users\w519l\source\repos\浙江大学数据结构课程练习\2_1多项式处理\obj\Debug\2_1多项式处理.csprojResolveAssemblyReference.cache
+c:\users\w519l\source\repos\浙江大学数据结构课程练习\2_1多项式处理\obj\Debug\2_1多项式处理.csproj.CoreCompileInputs.cache
+c:\users\w519l\source\repos\浙江大学数据结构课程练习\2_1多项式处理\obj\Debug\2_1多项式处理.exe
+c:\users\w519l\source\repos\浙江大学数据结构课程练习\2_1多项式处理\obj\Debug\2_1多项式处理.pdb
